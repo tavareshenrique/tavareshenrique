@@ -22,4 +22,4 @@ I am currently a Front-End developer working with ReactJS, specialized in System
 
 So, always...
 
-![Think Different](./gifs/thinkdifferent.gif)
+![Think Different](https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/thinkdifferent.gif)
