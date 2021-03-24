@@ -9,13 +9,13 @@ I'm Front-End Developer at [@Zaal-Tecnologia](https://github.com/Zaal-Tecnologia
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-I'm passionate about JavaScript, TypeScript and everything that involves these technologies. 
+I'm passionate about JavaScript, TypeScript and everything that involves these technologies.
 
-My main skill is using React, but I also have experience and certifications with React Native and Node, as well as liking these technologies too, of course! 
+My main skill is using React, but I also have experience and certifications with React Native and Node, as well as liking these technologies too, of course!
 
 Currently in addition to working as a Front-End developer using React, I am specializing in Systems Analysis by UNICSUL
 
-I am also twice certified in  [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. 🇧🇷
+I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. 🇧🇷
 
 GoStack was focused on React, React Native and Node. ⚛️
 
@@ -23,15 +23,9 @@ So, remember, always...
 
 ![Think Different](https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/thinkdifferent.gif)
 
-____________
+---
 
-<table>
-  <tr>
-      <td style="display:flex; flex-direction: column; background: red;" >
-        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=tavareshenrique&count_private=true&show_icons=true&theme=dracula" />
-    </td>
-  </tr>   
-</table>
-
-
-
+<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
+   <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=tavareshenrique&count_private=true&show_icons=true&theme=dracula" />
+  <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavareshenrique&count_private=true&langs_count=8&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql" />
+</div>
