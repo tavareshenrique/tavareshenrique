@@ -1,4 +1,6 @@
-<h2>Hi, I'm 𝗛𝗲𝗻𝗿𝗶𝗾𝘂𝗲 𝗧𝗮𝘃𝗮𝗿𝗲𝘀! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"></h2>
+<h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"></h1>
+
+<h2>I'm 𝗛𝗲𝗻𝗿𝗶𝗾𝘂𝗲 𝗧𝗮𝘃𝗮𝗿𝗲𝘀! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/think.gif" width="30px"></h2>
 
 I'm Front-End Developer at [@Zaal-Tecnologia](https://github.com/Zaal-Tecnologia).
 
@@ -8,6 +10,7 @@ I'm Front-End Developer at [@Zaal-Tecnologia](https://github.com/Zaal-Tecnologia
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 
 I'm passionate about JavaScript, TypeScript and everything that involves these technologies.
 
