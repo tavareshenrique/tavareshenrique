@@ -18,9 +18,7 @@ My main skill is using React, but I also have experience and certifications with
 
 I'm majoring in Systems Analysis by [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
 
-I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. 🇧🇷
-
-GoStack is a bootcamp focused on React, React Native and Node stacks.
+I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. GoStack is a bootcamp focused on React, React Native and Node stacks.
 
 So, always...
 
