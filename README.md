@@ -16,7 +16,7 @@ I'm passionate about JavaScript, TypeScript and everything that involves these t
 
 My main skill is using React, but I also have experience and certifications with React Native and Node, as well as liking these technologies too, of course!
 
-Currently in addition to working as a Front-End developer using React, I am specializing in Systems Analysis by [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
+Currently in addition to working as a Front-End developer using React, I'm majoring in Systems Analysis by [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
 
 I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. 🇧🇷
 
