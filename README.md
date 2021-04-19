@@ -27,6 +27,6 @@ So, always...
 ---
 
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
-   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=tavareshenrique&count_private=true&show_icons=true&theme=dracula" />
+   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=tavareshenrique&show_icons=true&theme=dracula&count_private=true" />
   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavareshenrique&count_private=true&langs_count=8&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql" />
 </div>
