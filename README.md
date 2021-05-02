@@ -12,6 +12,12 @@ I'm Front-End Developer at [@Zaal-Tecnologia](https://github.com/Zaal-Tecnologia
 <code><img height="20" title="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" title="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 
+:sparkles: To know more, open your terminal, run the command below and see the magic:
+
+```bash
+npx henrique
+```
+
 I'm passionate about JavaScript, TypeScript and everything that involves these technologies.
 
 My main skill is using React, but I also have experience and certifications with React Native and Node, as well as liking these technologies too, of course!
