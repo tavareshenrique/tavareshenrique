@@ -34,5 +34,5 @@ So, always...
 
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
    <img width="400px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=tavareshenrique&show_icons=true&theme=dracula&count_private=true" />
-  <img width="400px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavareshenrique&count_private=true&langs_count=6&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql,objective-c" />
+  <img width="400px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavareshenrique&count_private=true&langs_count=4&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql,objective-c" />
 </div>
