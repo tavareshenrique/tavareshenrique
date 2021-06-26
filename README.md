@@ -18,13 +18,15 @@ I'm Front-End Developer at [@Zaal-Tecnologia](https://github.com/Zaal-Tecnologia
 npx henrique
 ```
 
-I'm passionate about JavaScript, TypeScript and everything that involves these technologies.
+I'm passionate about JavaScript, TypeScript, React and everything that involves these technologies.
 
-My main skill is using React, but I also have experience and certifications with React Native and Node, as well as liking these technologies too, of course!
+My main skill is using React and React Native. I'm a great enthusiast NodeJS too.
 
 I'm majoring in Systems Analysis by [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
 
 I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. GoStack is a bootcamp focused on React, React Native and Node stacks.
+
+Currently, I'm studying the React course at [Rocketseat's Ignite](https://rocketseat.com.br/ignite).
 
 So, always...
 
