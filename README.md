@@ -12,7 +12,7 @@ I'm Front-End Developer at [@Zaal-Tecnologia](https://github.com/Zaal-Tecnologia
 <code><img height="20" title="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" title="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 
-:sparkles: To know more about me, open your terminal, run the command below:
+:sparkles: To know more about me, open your terminal and run the command below:
 
 ```bash
 npx henrique
