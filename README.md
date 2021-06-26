@@ -22,7 +22,7 @@ I'm passionate about JavaScript, TypeScript, React and everything that involves 
 
 My main skill is using React and React Native. I'm a great enthusiast NodeJS too.
 
-I'm majoring in Systems Analysis by [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
+I'm graduate in Systems Analysis by [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
 
 I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. GoStack is a bootcamp focused on React, React Native and Node stacks.
 
