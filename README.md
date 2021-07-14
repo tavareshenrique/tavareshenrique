@@ -26,7 +26,7 @@ I'm graduate in Systems Analysis by [UNICSUL](https://www.cruzeirodosulvirtual.c
 
 I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. GoStack is a bootcamp focused on React, React Native and Node stacks.
 
-I am also certified in the [Rocketseat Ignite] course (https://rocketseat.com.br/ignite), focused on React.
+I am also certified in the [Rocketseat Ignite](https://rocketseat.com.br/ignite) course, focused on React.
 
 So, always...
 
