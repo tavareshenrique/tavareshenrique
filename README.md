@@ -10,7 +10,7 @@ I'm Front-End Developer at [@GetNinjas](https://github.com/getninjas).
 <code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" title="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" title="React Native" src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/images/rn.png"></code>
+<code><img height="20" title="React Native" src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/images/rn-icon.png"></code>
 
 :sparkles: To know more about me, open your terminal and run the command below:
 
