@@ -37,6 +37,6 @@ So, always...
 ---
 
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
-   <img width="380px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=tavareshenrique&show_icons=true&theme=dracula&count_private=true" />
-  <img width="380px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavareshenrique&count_private=true&langs_count=4&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql,objective-c" />
+   <img width="380px" align="left" alt="My Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tavareshenrique&theme=dracula&count_private=true" />
+  <img width="380px" align="left" alt="My Top Language" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tavareshenrique&theme=dracula&count_private=true&hide=tsql,plpgsql,objective-c,java,elixir,ruby,php,scss,starlark,handlebars,shell,sqlpl&layout=compact" />
 </div>
