@@ -20,9 +20,9 @@ I'm Front-End Developer at [@GetNinjas](https://github.com/getninjas).
 npx henrique
 ```
 
-I'm passionate about JavaScript, TypeScript, React and everything that involves these technologies.
+I consider myself an extremely passionate person for Technology, I am a lover of JavaScript, TypeScript, React and the entire ecosystem around these technologies. 
 
-My main skill is using React and React Native. I'm a great enthusiast NodeJS too.
+My main stack and abilities involve: React, NextJS, React Native, Node, JavaScript e TypeScript.
 
 I have a degree in Systems Analysis and Development from [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
 
