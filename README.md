@@ -28,15 +28,8 @@ I have a degree in Systems Analysis and Development from [UNICSUL](https://www.c
 
 I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. GoStack is a bootcamp focused on React, React Native and Node stacks.
 
-I am also certified in the [Rocketseat Ignite](https://rocketseat.com.br/ignite) course, focused on React.
+I am also twice certified in the [Rocketseat Ignite]([https://rocketseat.com.br/ignite](https://www.rocketseat.com.br/formacao/react)) course, focused on React.
 
 So, always...
 
 ![Think Different](https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/thinkdifferent.gif)
-
----
-
-<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
-   <img width="380px" align="left" alt="My Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tavareshenrique&theme=dracula&count_private=true" />
-  <img width="380px" align="left" alt="My Top Language" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tavareshenrique&theme=dracula&count_private=true&hide=tsql,plpgsql,objective-c,java,elixir,ruby,php,scss,starlark,handlebars,shell,sqlpl&layout=compact" />
-</div>
