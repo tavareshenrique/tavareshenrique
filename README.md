@@ -2,7 +2,7 @@
 
 <h2>I'm 𝗛𝗲𝗻𝗿𝗶𝗾𝘂𝗲 𝗧𝗮𝘃𝗮𝗿𝗲𝘀! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/think.gif" width="30px" height="30px"></h2>
 
-I'm Front-End Developer.
+I'm Front-End Developer at [act digital](https://actdigital.com/pt/)
 
 <sup>*_WakaTime started counting from Mar 24 2021_</sup>
 
