@@ -26,9 +26,9 @@ My main stack and abilities involve: React, Next.js, Node.js, JavaScript and Typ
 
 - ✔️ I have a degree in **Systems Analysis and Development** from [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
 
-- ✔️ I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. **GoStack** is a bootcamp focused on **React, React Native** and **Node** stacks.
+- ✔️ I am **twice** certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. **GoStack** is a bootcamp focused on **React, React Native** and **Node** stacks.
 
-- ✔️ I am certified in the [Rocketseat Ignite](https://helpdesk.rocketseat.com.br/21922407.hs-sites.com/knowledge/o-que-e-o-ignite) course, focused on **React and Next.js**.
+- ✔️ I am  **also twice** certified in the [Rocketseat Ignite](https://helpdesk.rocketseat.com.br/21922407.hs-sites.com/knowledge/o-que-e-o-ignite) course, focused on **React and Next.js**.
 
 - ✔️ I am certified in the [Rocketseat Ignite](https://helpdesk.rocketseat.com.br/21922407.hs-sites.com/knowledge/o-que-e-o-ignite) course, focused on **Node.js**.
 
