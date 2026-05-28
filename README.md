@@ -20,15 +20,19 @@ I'm AI Engineer at [Casar.com](https://www.casar.com/)
 npx henrique
 ```
 
-I consider myself an extremely passionate person for Technology, I am a lover of JavaScript, TypeScript, React and the entire ecosystem around these technologies. 
+I consider myself an extremely passionate person about technology. I'm a lover of JavaScript, TypeScript, React, and the entire ecosystem surrounding these technologies. In fact, despite my current challenge as an AI Engineer, I remain a Front-End Engineer. 
 
-My main stack and abilities involve: React, NextJS, React Native, Node, JavaScript e TypeScript.
+My main stack and abilities involve: React, NextJS, Node, JavaScript and TypeScript.
 
 I have a degree in Systems Analysis and Development from [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
 
 I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. GoStack is a bootcamp focused on React, React Native and Node stacks.
 
 I am also twice certified in the [Rocketseat Ignite]([https://rocketseat.com.br/ignite](https://www.rocketseat.com.br/formacao/react)) course, focused on React.
+
+I am currently enrolled in and am an Early Adopter of Filipe Deschamps' "[curso.dev](https://curso.dev)".
+
+I am taking the ["Elevate"](https://elevate.techleads.club/) program by Tech Leads Club, which focuses on Advanced AI Training for Software Engineers.
 
 So, always...
 
