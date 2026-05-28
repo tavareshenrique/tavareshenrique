@@ -2,7 +2,7 @@
 
 <h2>I'm 𝗛𝗲𝗻𝗿𝗶𝗾𝘂𝗲 𝗧𝗮𝘃𝗮𝗿𝗲𝘀! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/think.gif" width="30px" height="30px"></h2>
 
-I'm AI Engineer at [Casar.com](https://www.casar.com/)
+I'm AI Engineer at [casar.com](https://www.casar.com/)
 
 <sup>*_WakaTime started counting from Mar 24 2021_</sup>
 
@@ -24,17 +24,17 @@ I consider myself an extremely passionate person about technology. I'm a lover o
 
 My main stack and abilities involve: React, Next.js, Node.js, JavaScript and TypeScript.
 
-I have a degree in Systems Analysis and Development from [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
+- I have a degree in Systems Analysis and Development from [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
 
-I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. GoStack is a bootcamp focused on React, React Native and Node stacks.
+- I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. GoStack is a bootcamp focused on React, React Native and Node stacks.
 
-I am also twice certified in the [Rocketseat Ignite](https://helpdesk.rocketseat.com.br/21922407.hs-sites.com/knowledge/o-que-e-o-ignite) course, focused on React.
+- I am also twice certified in the [Rocketseat Ignite](https://helpdesk.rocketseat.com.br/21922407.hs-sites.com/knowledge/o-que-e-o-ignite) course, focused on React.
 
-I am also certified in the [Rocketseat Ignite](https://helpdesk.rocketseat.com.br/21922407.hs-sites.com/knowledge/o-que-e-o-ignite) course, focused on Node.js.
+- I am also certified in the [Rocketseat Ignite](https://helpdesk.rocketseat.com.br/21922407.hs-sites.com/knowledge/o-que-e-o-ignite) course, focused on Node.js.
 
-I am currently enrolled in and am an Early Adopter of Filipe Deschamps' "[curso.dev](https://curso.dev)".
+- I am currently enrolled in and am an Early Adopter of Filipe Deschamps' "[curso.dev](https://curso.dev)".
 
-I am taking the ["Elevate"](https://elevate.techleads.club/) program by Tech Leads Club, which focuses on Advanced AI Training for Software Engineers.
+- I am taking the ["Elevate"](https://elevate.techleads.club/) program by Tech Leads Club, which focuses on Advanced AI Training for Software Engineers.
 
 So, always...
 
