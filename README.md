@@ -24,13 +24,10 @@ I consider myself an extremely passionate person about technology. I'm a lover o
 
 My main stack and abilities involve: React, Next.js, Node.js, JavaScript and TypeScript.
 
-- 🎓 **Academic Degree**: Systems Analysis and Development from UNICSUL.
-
-- 🤖 **AI Specialization:** Graduated from the Elevate Program by Tech Leads Club (Advanced AI Training for Software Engineers).
-
-- 🚀 **Full-Stack Mastery:** Multiple certifications in Rocketseat's GoStack & Ignite (React, Next.js, Node.js & React Native).
-
-- ⏳ **Ongoing Education:** Early Adopter of Filipe Deschamps' curso.dev.
+- 🎓 **Academic Degree:** Systems Analysis and Development from [UNICSUL](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
+- 🤖 **AI Specialization:** Graduated from the [Elevate Program](https://elevate.techleads.club/) by Tech Leads Club (Advanced AI Training for Software Engineers).
+- 🚀 **Full-Stack Mastery:** Multiple certifications in [Rocketseat's](https://rocketseat.com.br/) GoStack & [Ignite](https://helpdesk.rocketseat.com.br/21922407.hs-sites.com/knowledge/o-que-e-o-ignite) (React, Next.js, Node.js & React Native).
+- ⏳ **Ongoing Education:** Early Adopter of Filipe Deschamps' [curso.dev](https://curso.dev) and currently enrolled in [curso.dev/ia](https://curso.dev/ia).
 
 So, always...
 
